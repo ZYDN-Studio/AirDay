@@ -1,5 +1,5 @@
 <img width="1024" height="500" alt="AirDay_Vorstellungsgrafik" src="https://github.com/user-attachments/assets/2ba8e59b-082e-42f1-95d2-ac4693737ada" />
-# Datenschutzerklärung — AirDay
+# Datenschutzerklärung
 
 *Stand: 20.07.2026*
 
